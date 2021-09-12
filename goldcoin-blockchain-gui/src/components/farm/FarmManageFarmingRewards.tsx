@@ -184,7 +184,7 @@ export default function FarmManageFarmingRewards(props: Props) {
                   <Trans>
                     Note that this does not change your pooling payout
                     addresses. This only affects old format plots, and the
-                    10OZT reward for pooling plots.
+                    2 OZT reward for pooling plots.
                   </Trans>
                 </Typography>
               </>
