@@ -2,15 +2,17 @@
 
 Let's mine gold !
 
-Blockchain is running. Project roadmap soon ! Main focus was on the blockchain
+Project roadmap soon ! Main focus was on getting the blockchain running and the GUI fixed
 
 Full node : dns-introducer.goldcoin-network.net:7999
 
 Windows version available ! Some bugs may occur
-I do not recommend plotting with NFT as it was not tested yet
-Please be patient I'm doing my best to get everything done asap !
+NFT plots is rewarding 1/8
+To get your full rewards : https://alltheblocks.net/nft-recovery
+
+Explorer : https://alltheblocks.net/goldcoin
 
 http://goldcoin-network.net
 
-Let me know if you can connect to full node ! https://discord.gg/Kr4ZE8ym95
+Join our community ! https://discord.gg/Kr4ZE8ym95
 
